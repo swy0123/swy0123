@@ -13,14 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&fontColor=ECF3FE&color=070722&height=250&section=header&text=I'm%20Siyoung&fontSize=50&animation=twinkling&fontAlignY=40&desc=Frontend%20developer&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&fontColor=ECF3FE&color=070722&height=220&section=header&text=I'm%20Siyoung&fontSize=50&animation=twinkling&fontAlignY=40&desc=Frontend%20developer&descAlignY=55)
 
 ### You can contact me at
 <a href="https://github.com/swy0123" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="mailto:swy05123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-
-### ✏️ Tech Stack
+## Tech Stack
 #### Front-End <br/>
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>

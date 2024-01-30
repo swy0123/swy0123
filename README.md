@@ -48,3 +48,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
 </div>
+
+#### Stats <br/>
+![Siyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=swy0123&theme=shadow_blue&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swy0123&layout=compact)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=swy05123)](https://solved.ac/swy05123)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=swy05123&theme=cold)

@@ -50,7 +50,9 @@ Here are some ideas to get you started:
 </div>
 
 #### Stats <br/>
-![Siyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=swy0123&theme=shadow_blue&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swy0123&layout=compact)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=swy05123)](https://solved.ac/swy05123)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=swy05123&theme=cold)
+<div>
+  ![Siyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=swy0123&theme=shadow_blue&show_icons=true&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swy0123&layout=compact)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=swy05123)](https://solved.ac/swy05123)
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=swy05123&theme=cold)
+</div>
